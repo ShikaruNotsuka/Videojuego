@@ -1,0 +1,184 @@
+{
+    "project_name": "mario",
+    "spritesheet_path": "160-1606519_mario-fire-animation-sprite-sheet-outlined-mario-animation.png",
+    "character_name": "mario",
+    "animations": {
+        "idle": [
+            {
+                "x": 22,
+                "y": 7,
+                "width": 132,
+                "height": 184,
+                "name": "sprite_1",
+                "description": "",
+                "animation": "idle"
+            }
+        ],
+        "walk_right": [
+            {
+                "x": 257,
+                "y": 5,
+                "width": 151,
+                "height": 200,
+                "name": "sprite_2",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 530,
+                "y": 1,
+                "width": 142,
+                "height": 215,
+                "name": "sprite_3",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 774,
+                "y": 7,
+                "width": 154,
+                "height": 210,
+                "name": "sprite_4",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 1034,
+                "y": 11,
+                "width": 146,
+                "height": 198,
+                "name": "sprite_5",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 1290,
+                "y": 3,
+                "width": 171,
+                "height": 212,
+                "name": "sprite_6",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 1544,
+                "y": 3,
+                "width": 164,
+                "height": 232,
+                "name": "sprite_7",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 1812,
+                "y": 6,
+                "width": 128,
+                "height": 208,
+                "name": "sprite_8",
+                "description": "",
+                "animation": "walk_right"
+            },
+            {
+                "x": 2069,
+                "y": 4,
+                "width": 116,
+                "height": 211,
+                "name": "sprite_9",
+                "description": "",
+                "animation": "walk_right"
+            }
+        ],
+        "walk_left": [
+            {
+                "x": 3847,
+                "y": 240,
+                "width": 120,
+                "height": 229,
+                "name": "sprite_10",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 3594,
+                "y": 244,
+                "width": 135,
+                "height": 224,
+                "name": "sprite_11",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 3338,
+                "y": 245,
+                "width": 144,
+                "height": 220,
+                "name": "sprite_12",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 3078,
+                "y": 233,
+                "width": 138,
+                "height": 231,
+                "name": "sprite_13",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 2829,
+                "y": 237,
+                "width": 123,
+                "height": 230,
+                "name": "sprite_14",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 2579,
+                "y": 244,
+                "width": 132,
+                "height": 223,
+                "name": "sprite_15",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 2319,
+                "y": 240,
+                "width": 136,
+                "height": 224,
+                "name": "sprite_16",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 2069,
+                "y": 259,
+                "width": 128,
+                "height": 207,
+                "name": "sprite_17",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 1804,
+                "y": 254,
+                "width": 147,
+                "height": 209,
+                "name": "sprite_18",
+                "description": "",
+                "animation": "walk_left"
+            },
+            {
+                "x": 1556,
+                "y": 253,
+                "width": 129,
+                "height": 199,
+                "name": "sprite_19",
+                "description": "",
+                "animation": "walk_left"
+            }
+        ]
+    }
+}
